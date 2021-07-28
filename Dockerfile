@@ -47,6 +47,7 @@ RUN apt-get update && apt-get upgrade -y \
     gettext \
     mbstring \
     mcrypt \
+    mysql \
     mysqli \
     opcache \
     pdo_mysql \
